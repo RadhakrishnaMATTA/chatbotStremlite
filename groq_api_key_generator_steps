@@ -1,0 +1,12 @@
+ Step-by-Step Guide to Create a Groq API Key
+
+1. **Sign up or Log in**  
+   - Go to the [Groq website](https://groq.com).
+   - Sign in or create a new account.
+
+2. **Generate API Key**  
+   - Go to the **API** section in your account settings.
+   - Click **Generate New API Key**.
+   - Copy the API key.
+
+That’s it! Now you can store or use the key in your project.
